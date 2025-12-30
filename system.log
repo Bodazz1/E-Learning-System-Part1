@@ -1,0 +1,36 @@
+Dec 30, 2025 8:26:38 AM SecureLogger logInfo
+INFO: User login attempt username=admin password=****
+Dec 30, 2025 8:26:38 AM SecureLogger logSecurity
+WARNING: Admin panel accessed
+Dec 30, 2025 8:26:38 AM SecureLogger logError
+SEVERE: Database connection failed
+Dec 30, 2025 8:29:47 AM SecureLogger logInfo
+INFO: VXNlciBsb2dpbiBhdHRlbXB0IHVzZXJuYW1lPWFkbWluIHBhc3N3b3JkPSoqKio=
+Dec 30, 2025 8:29:47 AM SecureLogger logSecurity
+WARNING: QWRtaW4gcGFuZWwgYWNjZXNzZWQ=
+Dec 30, 2025 8:29:47 AM SecureLogger logError
+SEVERE: RGF0YWJhc2UgY29ubmVjdGlvbiBmYWlsZWQ=
+Dec 30, 2025 8:33:58 AM SecureLogger logInfo
+INFO: Q3JlYXRlZCB1c2VyOiB1c2VybmFtZT1BbGljZSByb2xlPVN0dWRlbnQ=
+Dec 30, 2025 8:33:58 AM SecureLogger logInfo
+INFO: Q3JlYXRlZCB1c2VyOiB1c2VybmFtZT1Cb2Igcm9sZT1JbnN0cnVjdG9y
+Dec 30, 2025 8:33:58 AM SecureLogger logInfo
+INFO: Q3JlYXRlZCB1c2VyOiB1c2VybmFtZT1DaGFybGllIHJvbGU9QWRtaW5pc3RyYXRvcg==
+Dec 30, 2025 8:37:49 AM SecureLogger logInfo
+INFO: Created user: username=Alice role=Student
+Dec 30, 2025 8:37:49 AM SecureLogger logInfo
+INFO: Created user: username=Bob role=Instructor
+Dec 30, 2025 8:37:49 AM SecureLogger logInfo
+INFO: Created user: username=Charlie role=Administrator
+Dec 30, 2025 8:38:39 AM SecureLogger logInfo
+INFO: Created user: username=Alice role=Student
+Dec 30, 2025 8:38:39 AM SecureLogger logInfo
+INFO: Created user: username=Bob role=Instructor
+Dec 30, 2025 8:38:39 AM SecureLogger logInfo
+INFO: Created user: username=Charlie role=Administrator
+Dec 30, 2025 8:39:09 AM SecureLogger logInfo
+INFO: Created user: username=Alice role=Student
+Dec 30, 2025 8:39:09 AM SecureLogger logInfo
+INFO: Created user: username=Bob role=Instructor
+Dec 30, 2025 8:39:09 AM SecureLogger logInfo
+INFO: Created user: username=Charlie role=Administrator
